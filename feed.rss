@@ -16,7 +16,21 @@
 		</itunes:owner>
 
 		<item>
-			<title>Aaron Humphrey - Part 1</title>
+			<title>Aaron Humphrey: Part 2</title>
+			<link>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p2.mp3</link>
+			<guid>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p2.mp3</guid>
+			<description>Listen to Mr. Humphrey and Mr. Correa discuss Aaron's job, BidPal, his time in school, and his amazing time in Switzerland.</description>
+			<enclosure 
+				url="https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p2.mp3"
+				length="103469684"
+				type="audio/mpeg" />
+			<category>Podcasts</category>
+			<pubDate>Thu, 15 Dec 2016 16:00:00 -0500</pubDate>
+			<itunes:image href="https://s3.amazonaws.com/techfo-podcast/aaron_humphrey.jpg" />
+		</item>
+
+		<item>
+			<title>Aaron Humphrey: Part 1</title>
 			<link>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p1.mp3</link>
 			<guid>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p1.mp3</guid>
 			<description>Listen to Mr. Humphrey and Mr. Correa discuss Aaron's job, BidPal, his time in school, and his amazing time in Switzerland.</description>
@@ -28,6 +42,8 @@
 			<pubDate>Thu, 08 Dec 2016 16:00:00 -0500</pubDate>
 			<itunes:image href="https://s3.amazonaws.com/techfo-podcast/aaron_humphrey.jpg" />
 		</item>
+
+		
 
 	</channel>
 </rss>
