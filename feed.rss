@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Getting To Know The TFos</title>
+		<description></description>
+		<link>https://s3.amazonaws.com/techfo-podcast</link>
+		<language>en-us</language>
+		<copyright>2016</copyright>
+
+		<itunes:author>IndyTechFellowship</itunes:author>
+		<itunes:subtitle>Get to know your fellow Fellows with this regular look into their past, present, and future.</itunes:subtitle>
+		<itunes:image href="https://s3.amazonaws.com/techfo-podcast/logo.png" />
+		<itunes:owner>
+			<itunes:name>Mike H</itunes:name>
+			<itunes:email>mike@hockerman.com</itunes:email>
+		</itunes:owner>
+
+		<item>
+			<title>Aaron Humphrey - Part 1</title>
+			<link>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p1.mp3</link>
+			<guid>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p1.mp3</guid>
+			<description>Listen to Mr. Humphrey and Mr. Correa discuss Aaron's job, BidPal, his time in school, and his amazing time in Switzerland.</description>
+			<enclosure 
+				url="https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p1.mp3"
+				length="49828175"
+				type="audio/mpeg" />
+			<category>Podcasts</category>
+			<pubDate>Thu, 08 Dec 2016 16:00:00 -0500</pubDate>
+			<itunes:image href="https://s3.amazonaws.com/techfo-podcast/aaron_humphrey.jpg" />
+		</item>
+
+	</channel>
+</rss>
