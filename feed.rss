@@ -14,6 +14,20 @@
 			<itunes:name>Mike H</itunes:name>
 			<itunes:email>mike@hockerman.com</itunes:email>
 		</itunes:owner>
+		
+		<item>
+			<title>Mike Hockerman</title>
+			<link>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_mike_hockerman.mp3</link>
+			<guid>https://s3.amazonaws.com/techfo-podcast/tfo_podcast_mike_hockerman.mp3</guid>
+			<description>Michael Hockerman tells us his beautiful tale of small towns, customers, and all things TechFo.</description>
+			<enclosure
+				url="https://s3.amazonaws.com/techfo-podcast/tfo_podcast_mike_hockerman.mp3"
+				length="134713179"
+				type="audio/mpeg" />
+			<category>Podcasts</category>
+			<pubDate>Thu, 12 Jan 2017 13:00:00 -0500</pubDate>
+			<itunes:image href="https://s3.amazonaws.com/techfo-podcast/mike_hockerman.jpg" />
+		</item>
 
 		<item>
 			<title>Aaron Humphrey: Part 2</title>
@@ -36,7 +50,7 @@
 			<description>Listen to Mr. Humphrey and Mr. Correa discuss Aaron's job, BidPal, his time in school, and his amazing time in Switzerland.</description>
 			<enclosure 
 				url="https://s3.amazonaws.com/techfo-podcast/tfo_podcast_aaron_humphrey_p1.mp3"
-				length="49828175"
+				length="49471447"
 				type="audio/mpeg" />
 			<category>Podcasts</category>
 			<pubDate>Thu, 08 Dec 2016 16:00:00 -0500</pubDate>
